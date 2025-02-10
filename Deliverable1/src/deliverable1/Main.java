@@ -1,4 +1,4 @@
- package Deliverable1.WarGame;
+ package Deliverable1;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
@@ -7,7 +7,7 @@
 
 /**
  *
- * @author bsp18
+ * @author Team Reva
  */
 
 import java.util.Scanner;
