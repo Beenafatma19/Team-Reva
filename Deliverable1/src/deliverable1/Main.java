@@ -1,4 +1,4 @@
- package Deliverable1.project;
+ package Deliverable1.WarGame;
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
